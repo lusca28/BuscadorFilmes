@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Buscador de Filmes</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_search">Search</string>
+    <string name="search_hint">Procurar</string>
+
+    <string name="busque_um_filme">Busque um filme</string>
+    <string name="para_buscar">Para buscar um filme é simples, basta digitar o título no campo de busca.</string>
+
+    <string name="link_filmes_disponiveis">"http://www.omdbapi.com"</string>
+
+    <string name="encontramos">"Encontramos"</string>
+    <string name="resultados">"resultados:"</string>
+    <string name="detalhes">"DETALHES"</string>
+    <string name="sinopse">"Sinopse:"</string>
+</resources>
